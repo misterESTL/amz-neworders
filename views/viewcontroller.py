@@ -9,8 +9,6 @@ import os
 import Tkinter as tk
 import tkFileDialog
 
-from lib import model
-
 class Application(tk.Frame):
     '''The Tk GUI interface for converting new orders to Everest formatted \
     CSV files.'''
